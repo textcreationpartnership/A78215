@@ -1,0 +1,568 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The nevv birth: in which is brought forth the new creature. VVith a description of the true marks and characters thereof; which being manifested and declared, is the true and proper ground of visible communion, in which the sons or children of God are to receive and own one another as brethren, although they differ (for want of light) in some particular ordinances. Whereunto is annexed a briefe description of Antichrist, not only without men, but within them also. / By R.B. an unworthy servant of Iesus Christ, who desireth and prayeth for the unity of all saints.</title>
+            <author>Bartlet, Richard.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 63 KB of XML-encoded text transcribed from 45 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78215</idno>
+            <idno type="STC">Wing B984</idno>
+            <idno type="STC">Thomason E1503_2</idno>
+            <idno type="STC">ESTC R208658</idno>
+            <idno type="EEBO-CITATION">99867586</idno>
+            <idno type="PROQUEST">99867586</idno>
+            <idno type="VID">119902</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78215)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119902)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 192:E1503[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The nevv birth: in which is brought forth the new creature. VVith a description of the true marks and characters thereof; which being manifested and declared, is the true and proper ground of visible communion, in which the sons or children of God are to receive and own one another as brethren, although they differ (for want of light) in some particular ordinances. Whereunto is annexed a briefe description of Antichrist, not only without men, but within them also. / By R.B. an unworthy servant of Iesus Christ, who desireth and prayeth for the unity of all saints.</title>
+                  <author>Bartlet, Richard.</author>
+               </titleStmt>
+               <extent>[16], 73, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by W.H. for L. Blaiklock, and are to be sould at Temple Bar, and by John Hancock in Popes head Alley.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The epistle signed: Rich. Bartlet.</note>
+                  <note>Annotation on Thomason copy: "Septemb. 7.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lord's Supper --  Early works to 1800.</term>
+               <term>Antichrist --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="approbation">
+            <pb facs="tcp:119902:1"/>
+            <p>ALthough I diſſent from that opinion, which this diſcourſe at leaſt intimates; <hi>That the infants of beleevers are not capable of Baptiſme;</hi> yet I approve that moderation which is therein, earneſtly per<g ref="char:EOLhyphen"/>ſwaded in reference to com<g ref="char:EOLhyphen"/>munion in the worſhip of God, with all thoſe, who give a faire evidence of their ſpiri<g ref="char:EOLhyphen"/>tuall ſon-ſhip, or New Birth, and ſo of their union with Chriſt in the ſpirit, though (in the ſence of this Author) as yet unbaptized.</p>
+            <closer>
+               <signed>Ioſeph Caryl.</signed> 
+               <dateline>
+                  <date>The tenth of the 12 month, 1653.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:119902:1" rendition="simple:additions"/>
+            <p>THE NEVV BIRTH: In which is brought forth the <hi>NEW CREAT<g ref="char:V">Ʋ</g>RE.</hi>
+            </p>
+            <p>VVith a deſcription of the true Marks and Characters thereof; which being ma<g ref="char:EOLhyphen"/>nifeſted and declared, is the true and proper ground of viſible Communion, in which the ſons or children of God are to receive and own one another as brethren, al<g ref="char:EOLhyphen"/>though they differ (for want of Light) in ſome particular ORDINANCES.</p>
+            <q>
+               <p>As many as are led by the ſpirit of God, they are the ſonnes of God.</p>
+               <bibl>
+                  <hi>Rom. 8.14.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Sirs ye are brethren, why doe ye wrong one another,</p>
+               <bibl>Act. <hi>7.26,</hi>
+               </bibl>
+            </q>
+            <p>Whereunto Is annexed a briefe deſcription of Antichriſt, not only without men, but within them alſo.</p>
+            <q>
+               <p>Little children, even now are there many Antichriſts,</p>
+               <bibl>
+                  <hi>1</hi> Io. <hi>2.18</hi>
+               </bibl>
+            </q>
+            <p>By <hi>R.B.</hi> An unworthy ſervant of Ieſus Chriſt, who deſireth and prayeth for the unity of all Saints.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <q>
+               <p>I pray thee let no ſtrife be between me and thee, for we be brethren</p>
+               <bibl>
+                  <hi>Gen. 13.8.</hi>
+               </bibl>
+            </q>
+            <p>London, <hi>Printed by W. H. for</hi> L. Blairlock, <hi>and are to be ſould at Temple Bar, and by</hi> John Hancock <hi>in Popes head Alley.</hi> 1654</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:119902:2"/>
+            <pb facs="tcp:119902:2"/>
+            <head>To all true beleeving ſoules, who are be<g ref="char:EOLhyphen"/>gotten and born of God through the ſpirit; <hi>Rich: Bartlet</hi> wiſheth grace, mercy and peace to be mul<g ref="char:EOLhyphen"/>tiplied, <hi>&amp;c.</hi>
+            </head>
+            <p>BEloved brethren, (for ſo I preſume to call you, becauſe we are the chil<g ref="char:EOLhyphen"/>dren of one father) although
+<pb facs="tcp:119902:3"/>we may differ in our appre<g ref="char:EOLhyphen"/>henſions, concerning ſome particular Ordinances.</p>
+            <p>To you I dedicate this lit<g ref="char:EOLhyphen"/>tle book for this end, that there may be no ſtrife between me and you, becauſe we are bre<g ref="char:EOLhyphen"/>thren. Now, foraſmuch as it is ſo pleaſant a thing for<note n="*" place="margin">Pſ. 133.1.</note> brethren to live together in unity; my endeavour is to re<g ref="char:EOLhyphen"/>gaine thoſe that are other<g ref="char:EOLhyphen"/>wiſe minded, and for thoſe that are like minded<note n="(a)" place="margin">name<g ref="char:EOLhyphen"/>ly to live in unity.</note> to<note n="*" place="margin">Eph. 4.3.</note> keep the unity of the ſpirit in the bond of peace; and up<g ref="char:EOLhyphen"/>on that account I have publi<g ref="char:EOLhyphen"/>ſhed
+<pb facs="tcp:119902:3"/>this little book, to ſhew the true grounds of brother<g ref="char:EOLhyphen"/>hood, which is, the being chil<g ref="char:EOLhyphen"/>dren of one father, adopted by the ſame ſpirit, heires of the ſame promiſe, joynt heires with the ſame Chriſt. And alſo by way of cauti<g ref="char:EOLhyphen"/>on, I have laboured to per<g ref="char:EOLhyphen"/>ſwade al true beleeving ſouls, that they take heed, that they reject not any of the children of their Father, becauſe (peradventure) ſome have not attained to the like meaſure of knowledge with themſelves, but rather
+<pb facs="tcp:119902:4"/>to receive them, and la<g ref="char:EOLhyphen"/>bour with all meekneſse, to inſtruct them in thoſe truths, which they are not enlightned in. That to the weake, thoſe that are ſtrong, may become as weak, that they may gaine the weak, and not to keep at diſtance, from any gracious ſoule, becauſe they know not ſo much as others, nor can<g ref="char:EOLhyphen"/>not declare ſo much as others; But to love owne, and re<g ref="char:EOLhyphen"/>ceive them, becauſe they are born of God, as well as o<g ref="char:EOLhyphen"/>thers; for although many
+<pb facs="tcp:119902:4"/>a precious ſoule may bring forth but <hi>30</hi> fold, yet ſeeing it is good ſeed, and ſowne in good and honeſt hearts, let them not be deſpiſed by thoſe that bring forth an <hi>100</hi> fold; for we ſhall find that among the ſons of God, ſome babes ſome young men, ſome fa<g ref="char:EOLhyphen"/>thers, ſome aged in the holy underſtanding, ſome newly entred therein, yet all chil<g ref="char:EOLhyphen"/>dren. So that where we find the good ſeed ſowne in the good and honeſt heart, brin<g ref="char:EOLhyphen"/>ging forth good fruit, though in ſome more and ſome leſſe,
+<pb facs="tcp:119902:5"/>we ſhould love and own them. For this we find to be the ex<g ref="char:EOLhyphen"/>ample of Chriſt, not to break the bruiſed reed, nor to quench the ſmoaking flax, but to have much reſpect to the lambs and little ones that be<g ref="char:EOLhyphen"/>leeve in him; which ſpirit may be upon, and in us all, is the prayer of the unworthy ſervant of Chriſt, and alſo yours for Chriſts ſake.</p>
+            <closer>
+               <signed>Rich. Bartlet.</signed>
+               <dateline>
+                  <hi>London</hi> 
+                  <date>
+                     <hi>this ſixth day of the 12 month</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> vulg. Feb. <hi>13. in the year 1653.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:119902:5"/>
+            <head>To the Reader.</head>
+            <p>REader if thou beeſt one of the new creation, and a ſubject of that King<g ref="char:EOLhyphen"/>dome that conſiſts of righteouſneſs &amp; peace, and joy in the Holy Ghoſt, I hope thou
+<pb facs="tcp:119902:6"/>wilt accept of my ſmal mite, caſt into thy hand; for although it is but ſmall, yet I hope it is good ſeed, and I doe aſſure thee it is not in the leaſt intended by me, to be the ſeeds of contention, but that which tends to peace and unity, and to this end I have ſown it and diſperſed it abroad, ho<g ref="char:EOLhyphen"/>ping by the bleſſing of
+<pb facs="tcp:119902:6"/>God, when it fals upon good &amp; honeſt hearts, it will bring forth good fruit; and although it may not bring forth an hundred fold, yet if it bring forth but thir<g ref="char:EOLhyphen"/>ty fold, I ſhall rejoyce, and think my labour well ſpent.</p>
+            <p>But if thou beeſt one that is in the ſtrife and contention, ſmiting thy fellow ſervants, ei<g ref="char:EOLhyphen"/>ther
+<pb facs="tcp:119902:7"/>becauſe they know more then thou or becauſe they know not ſo much as thou, then my prayer is, that the ſpirit of the Lord Jeſus may meet with thee, and turne thee out of that way, leſt in thy perſiſting therein, the Lord ſhould come upon thee, before thou art aware, and find thy feet<note n="*" place="margin">Or to hate thy brother without a cauſe. Mat. 5.22.</note> ſwift to ſhed
+<pb facs="tcp:119902:7"/>blood, becauſe the way of peace thou haſt not known, and ſhall deale with thee, according to what he hath threatned in <hi>Mat.</hi> 24.51. But I ſhall leave what I have written to the Lords diſpoſing, and thy conſideration.</p>
+            <closer>
+               <signed>R. B.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:119902:8"/>
+            <pb n="1" facs="tcp:119902:8"/>
+            <head>THE NEVV BIRTH, <hi>&amp;c.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>John 1.12, 13.</hi>
+                  </bibl>
+                  <p>But as many as received him, to them gave he power (or<note n="(a)" place="margin">Hoc jus.</note> priviledge) to become, or<note n="(b)" place="margin">Fieri.</note> to be made the ſons of God, even to them that beleeve on his Name: Which were borne, not of bloud, nor of the will of the fleſh, nor of the will of man, but of God.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HE Evangeliſt St <hi>Iohn</hi> having in the beginning of this Chapter declared the E<g ref="char:EOLhyphen"/>ternall power and Godhead of
+<pb n="2" facs="tcp:119902:9"/>the Lord Jeſus Chriſt, as <hi>verſe</hi> 1, 2, 3. he afterwards commeth to treat concerning his man<g ref="char:EOLhyphen"/>hood, as verſe 14. compared with the 11. in the 14 verſe, we ſhall find that the word which was in the beginning with God, and was God, was made fleſh, and came and dwelt amongſt us; and therefore in the 11 verſe, it is ſaid, <hi>he came unto his own, but his own recei<g ref="char:EOLhyphen"/>ved him not.</hi> He came unto his own, that is, to the <hi>Iewes,</hi> his owne peculiar people, he came to his owne Nation, the place which he had choſe for to ſet up his name; and there<g ref="char:EOLhyphen"/>fore the word is in the Neuter Gender.<note n="(c)" place="margin">Ad ſua venit.</note> But his owne re<g ref="char:EOLhyphen"/>ceived him not, that is, his own people of that Land,
+<pb n="3" facs="tcp:119902:9"/>did not receive him; and therefore the word is put in the Maſculine Gender;<note n="(d)" place="margin">&amp; ſui eum non ex<g ref="char:EOLhyphen"/>ceperunt.</note> ſo that his owne people the <hi>Iewes,</hi> the ſeed of <hi>Abraham,</hi> according to the fleſh, which were his by the old Covenant, made with them, they received him not: So that the Apoſtle's words were made good,<note n="*" place="margin">1 Cor. 2.14.</note> 
+               <hi>That the naturall man receiveth not the things of the ſpirit of God.</hi> But there were ſome of the ſeed of <hi>Abraham</hi> according to promiſe, they that were true <hi>Iſralites</hi> indeed, thoſe that were borne (not only of blood, and of the will of the fleſh, and of the will of man, but) of God; which perſons did receive Chriſt, and are de<g ref="char:EOLhyphen"/>clared in the words of the
+<pb n="4" facs="tcp:119902:10"/>Text: <hi>But as many as received him, to them gave he this privi<g ref="char:EOLhyphen"/>ledge, &amp;c.</hi>
+            </p>
+            <p>In the words of the Text, you may obſerve theſe foure particulars.</p>
+            <p n="1">1.<note place="margin">Four parti<g ref="char:EOLhyphen"/>culars in the Text.</note> That there are certaine perſons, to whom the Lord Je<g ref="char:EOLhyphen"/>ſus hath, and will give this power and priviledge to be made the ſons of God.</p>
+            <p n="2">2. You may obſerve, who thoſe perſons are, to whom Chriſt hath, and will give this power and priviledge to; and they are thoſe that receive him: <hi>But as many as received him, to them gave he, &amp;c.</hi>
+            </p>
+            <p n="3">3. You may obſerve who they were that did receive Chriſt, and had this privi<g ref="char:EOLhyphen"/>ledge given, and thoſe were
+<pb n="5" facs="tcp:119902:10"/>ſuch as beleeved on his name; <hi>to them gave he this priviledge, to be made the ſons of God [even] to them that beleeve, &amp;c.</hi>
+            </p>
+            <p n="4">4. You may obſerve who or what theſe perſons were, that did beleeve in the name of Je<g ref="char:EOLhyphen"/>ſus Chriſt, and they were thoſe which were borne of God.</p>
+            <p>
+               <hi>Even to them that beleeve on his name, which were born (not of the will of man, but) of God.</hi>
+            </p>
+            <p>Now from theſe four parti<g ref="char:EOLhyphen"/>culars,<note place="margin">3 Things very conſi<g ref="char:EOLhyphen"/>derable.</note> there is this very conſi<g ref="char:EOLhyphen"/>derable.</p>
+            <p n="1">1. That thoſe that have this priviledge to be made the ſons of God, are thoſe that receive Chriſt.</p>
+            <p n="2">2. Thoſe that receive Chriſt are thoſe that beleeve on his name.</p>
+            <p n="3">
+               <pb n="6" facs="tcp:119902:11"/> 3. Thoſe that beleeve on his name, are thoſe that are born of God; [ſo that]</p>
+            <p>From the new birth,<note place="margin">Note.</note> perſons come to believe one the name of Chriſt, and through beleeving, they come to re<g ref="char:EOLhyphen"/>ceive Chriſt, and by receiving of Chriſt, they come to have the priviledge of being made the ſons of God.</p>
+            <p>Now although many truths might be raiſed from the words thus opened; yet I ſhall at this time, mention but one by way of Doctrine, which may be moſt ſutable to the purpoſo herein intended; and that is this.</p>
+            <p>
+               <hi>Doct.</hi> That true beleeving on the name of Jeſus Chriſt, (by or through, which a ſoule
+<pb n="7" facs="tcp:119902:11"/>doth receive Chriſt with the priviledges aforeſaid) is a true and infallible Character of a ſon of God, or of the New Birth.</p>
+            <p>And this truth ariſeth in the words, from a twofold conſi<g ref="char:EOLhyphen"/>deration.</p>
+            <p n="1">1.<note place="margin">The truth of the Do<g ref="char:EOLhyphen"/>ctrine from two conſi<g ref="char:EOLhyphen"/>derations in the text.</note> From the conſideration of what thoſe perſons were, that did receive Chriſt, and had the priviledge of being made the ſons of God; and they were them that beleeved on his name; ſo upon that ac<g ref="char:EOLhyphen"/>count beleeving is a mark or Character of ſon-ſhip.</p>
+            <p n="2">2. Conſidering that thoſe, that did beleeve in the name of Chriſt, were ſuch that were born of God, and upon that account, beleeving is a chara<g ref="char:EOLhyphen"/>cter
+<pb n="8" facs="tcp:119902:12"/>or marke of the New Birth.</p>
+            <p>Now in the handling of this Doctrine, I ſhall take this me<g ref="char:EOLhyphen"/>thod.</p>
+            <p n="1">1.<note place="margin">The Do<g ref="char:EOLhyphen"/>ctrine ope<g ref="char:EOLhyphen"/>ned 3 particulars.</note> To ſhew what is to be underſtood by the New Birth, or to be born of God.</p>
+            <p n="2">2. I ſhall give a deſcription of the ſons or children of God, which are begotten and born in this New Birth.</p>
+            <p n="3">3. I ſhall ſhew how true be<g ref="char:EOLhyphen"/>leeving in the name of Jeſus Chriſt is an infallible chara<g ref="char:EOLhyphen"/>cter both of the new Birth and ſon-ſhip.</p>
+            <p n="4">4. I ſhall endeavour to ſhew what uſe may, and ought to be made of the whole, by all the people of God.</p>
+            <p n="1">1. VVhat the new Birth is,
+<pb n="9" facs="tcp:119902:12"/>or to be born of God.</p>
+            <p n="1">1. Birth or being born,<note place="margin">What birth or being borne doth ſignifie in 2 particu<g ref="char:EOLhyphen"/>lars.</note> it imports a begetting, and brin<g ref="char:EOLhyphen"/>ging forth of that which is be<g ref="char:EOLhyphen"/>gotten or conceived; or</p>
+            <p n="2">2. It is the time wherein a child or Infant hath its firſt be<g ref="char:EOLhyphen"/>ginning in the world; and this is called the birth or time of its being borne: and this the Hebrew word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> doth pro<g ref="char:EOLhyphen"/>perly ſignifie, and commeth from the root <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which ſig<g ref="char:EOLhyphen"/>nifieth to beget or create and bring forth.</p>
+            <p>But my purpoſe is not now to ſpeak of that which is born of the fleſh and is fleſh: But of that which is born of the ſpi<g ref="char:EOLhyphen"/>rit, and is ſpirit.</p>
+            <p>And this ſpirituall Birth, is that which I call the new
+<pb n="10" facs="tcp:119902:13"/>Birth, or being borne of God.</p>
+            <p>And firſt I call it the new Birth,<note place="margin">3 Reaſons why the ſpirituall Birth is cal<g ref="char:EOLhyphen"/>led new.</note> for theſe reaſons.</p>
+            <p n="1">1. Becauſe it is begotten and created in a ſoule, after the birth of nature; for ſaith the Apoſtle <hi>Paul;</hi> in the 1 <hi>Cor.</hi> 15.46. That was not firſt which was ſpirituall, but that which is naturall, and afterwards that which is ſpirituall; and there<g ref="char:EOLhyphen"/>fore it is called the new<note n="(e)" place="margin">Regene<g ref="char:EOLhyphen"/>ratio (or) new Birth.</note> Birth, in <hi>Mat.</hi> 19.28. <hi>And a be<g ref="char:EOLhyphen"/>ing born againe, Iohn</hi> 3.3.</p>
+            <p n="2">2. Becauſe that which is be<g ref="char:EOLhyphen"/>gotten and born in this new birth, is a new creature. 2 <hi>Cor.</hi> 5.17.</p>
+            <p n="3">3. Becauſe it is called the new man. <hi>Eph.</hi> 4.24. and <hi>Col.</hi> 3.10.</p>
+            <p>Secondly, it is called the be<g ref="char:EOLhyphen"/>ing
+<pb n="11" facs="tcp:119902:13"/>born of God, for this reaſon.</p>
+            <p>Becauſe that God by his ſpirit doth beget and create, and bring forth this new crea<g ref="char:EOLhyphen"/>ture in a ſoule, and this worke of God's ſpirit, is put in oppo<g ref="char:EOLhyphen"/>ſition to naturall births, and therefore it is ſaid in the Text, not of<note n="(f)" place="margin">
+                  <hi>ex ſam guinibus,</hi> it is in the plurall number, to ſhew that naturall births doe proceed both from the male and female.</note> bloods, nor of the will of the fleſh, nor of the will of man, but of God.</p>
+            <p>Having ſhewed what the new Birth is, and what it is to be born of God: I ſhall in the next place, give a briefe de<g ref="char:EOLhyphen"/>ſcription of the new creature, which is begotten and born of God in this new Birth, and I ſhall define it thus.</p>
+            <p>That it is a divine being,<note place="margin">A deſcrip<g ref="char:EOLhyphen"/>tion of the new crea<g ref="char:EOLhyphen"/>ture.</note> cal<g ref="char:EOLhyphen"/>led the new man, which the
+<pb n="12" facs="tcp:119902:14"/>Lord by his ſpirit hath created and implanted in a ſoule, after the image of himſelfe, in righ<g ref="char:EOLhyphen"/>teouſneſſe and true holineſſe. <hi>Eph.</hi> 4.24. compared with <hi>Col.</hi> 3.10. So that as it is ſaid of the firſt <hi>Adam,</hi> that he begat a ſonne in his own likeneſs,<note place="margin">Gen. 5.3.</note> after his own image.</p>
+            <p>VVhy ſo the Lord by his ſpirit doth beget ſonnes in his likeneſſe, and after his own image; therefore ſaith the Apoſtle <hi>Paul, as we have born the image of the earthy, we ſhall alſo (by this new birth) bear the image of the heavenly.</hi> 1 <hi>Cor.</hi> 15.49.</p>
+            <p>
+               <hi>Qu.</hi> But what is the like<g ref="char:EOLhyphen"/>neſſe and image of the ſpirit of God, according to which, the new man is created?</p>
+            <pb n="13" facs="tcp:119902:14"/>
+            <p> 
+               <hi>An.</hi> I anſwer, firſt nega<g ref="char:EOLhyphen"/>tively;<note place="margin">What the Image of God is not.</note> That it is not the chan<g ref="char:EOLhyphen"/>ging of him into the image of corruptible man, and to birds, and to four-footed beaſts, and creeping things. <hi>Rom.</hi> 1.23. as ſome prophanely have done, in drawing of the image or ſi<g ref="char:EOLhyphen"/>militude of the Holy Ghoſt, like to the picture of a Dove.</p>
+            <p>But ſecondly, I anſwer af<g ref="char:EOLhyphen"/>firmatively,<note place="margin">What the likeneſſe of the ſpirit of God is.</note> that by the image or likeneſſe of the ſpirit of God, is to be underſtood thoſe holy and bleſſed graces, by which he is pleaſed to mani<g ref="char:EOLhyphen"/>feſt himſelfe in the holy word of God, as namely righteouſ<g ref="char:EOLhyphen"/>neſſe, holineſſe,<note n="*" place="margin">Gal. 5 22, 2, 9.</note> love, joy, peace, long-ſuffering, gentle<g ref="char:EOLhyphen"/>neſſe, goodneſſe, faith, meek<g ref="char:EOLhyphen"/>neſſe, with many others, that
+<pb n="14" facs="tcp:119902:15"/>might be reckoned up, which indeed are as it were the very nature of the ſpirit of God. And thoſe graces of the ſpirit aforeſaid, they are as the en<g ref="char:EOLhyphen"/>gravings of a ſignet or ſeale, which being ſet home by the power of God upon a ſoule, (as a ſignet upon a ſeal of wax) it ſtamps its owne image, and begets its likeneſſe; ſo that a ſoule receiveth <hi>grace for grace,</hi> holineſſe,<note place="margin">John 1.16.</note> for holineſſe, love for love, faith for faith, and ſo of all the reſt of the graces of the ſpirit: And theſe holy and bleſſed graces; they are called the fruits of the ſpirit, in <hi>Gal.</hi> 5.22, 23. That is to ſay, the ſpi<g ref="char:EOLhyphen"/>rit of God is the good tree up<g ref="char:EOLhyphen"/>on which they grow, accor<g ref="char:EOLhyphen"/>ding to the ſaying of Chriſt; <hi>a
+<pb n="15" facs="tcp:119902:15"/>good tree bringeth forth good fruit. Mat.</hi> 7.17.<note place="margin">Gods ſpirit is the root from whence true faith, or any o<g ref="char:EOLhyphen"/>ther grace doth flow.</note> So that if any deſire to know from whence true grace doth proceed; whe<g ref="char:EOLhyphen"/>ther it be love to God, or love to his people, or whether it be true faith, by which any re<g ref="char:EOLhyphen"/>ceive Chriſt, and have the pri<g ref="char:EOLhyphen"/>viledge of being made the ſons of God, or whatſoever grace it be; why it may be ſeen that it doth evidently appeare from the word of the Lord, that it is the proceed and product of the ſpirit of God, and cannot be expected from any other root; for men doe not gather <hi>Grapes of thorns, nor Figs of thi<g ref="char:EOLhyphen"/>ſtles;</hi> no more can true faith,<note place="margin">Mat 7.16.</note> or any other grace, proceed from any thing whatſoever, be<g ref="char:EOLhyphen"/>ſides the ſpirit of God.</p>
+            <pb n="16" facs="tcp:119902:16"/>
+            <p> Thus I have given ſome hints of the new creature, and as it were deſcribed the image and form of the new man, which is begotten and born of God in the new birth.</p>
+            <p>And ſo I come to the third particular, namely, that true faith in the name of Jeſus Chriſt,<note place="margin">True faith is a certein marke of the new Creature.</note> is an infallible Cha<g ref="char:EOLhyphen"/>racter both of the new birth, and new creature.</p>
+            <p>And in the handling of this particular, namely, to ſhew the true character of ſon-ſhip, or of the new birth, I might make uſe of all the graces of the ſpirit, which are begotten and born in a ſoule, in this new birth; but I only name faith or beleeving, becauſe it is on<g ref="char:EOLhyphen"/>ly mentioned in the Text; not
+<pb n="17" facs="tcp:119902:16"/>but that I beleeve all other gra<g ref="char:EOLhyphen"/>ces are included, and doe ac<g ref="char:EOLhyphen"/>company true faith, whereſo<g ref="char:EOLhyphen"/>ever it is; as ſhall be ſhewn in its due place. But for the proofe of the thing in hand, namely, that true faith is a Character of ſon-ſhip, and of the new Birth, is plainly held forth in the words of the Text, as may clearly appeare by pro<g ref="char:EOLhyphen"/>poſing of this querie; and that is this.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Querie. </seg>
+               </label> By what marke or Chara<g ref="char:EOLhyphen"/>cter may we come to know a true ſonne of God, or one that is borne in the new birth; why the Text giveth this anſwer that thoſe that were made the ſons of God, were them that beleeved in his name; ſo that whereſoever we find true faith
+<pb n="18" facs="tcp:119902:17"/>in any man or woman, we may be confident that man or wo<g ref="char:EOLhyphen"/>man is a child of God.</p>
+            <p>Secondly, the Text tels us, that true faith and beleeving, is a certaine character of the new birth, as appeares in theſe words, <hi>them that beleeve in his name, (are thoſe) which were born of God.</hi>
+            </p>
+            <p>And the Apoſtle <hi>Iohn</hi> doth fully confirm the truth of this in the firſt of <hi>John</hi> 5.1. <hi>Whoſoe<g ref="char:EOLhyphen"/>ver beleeveth that Ieſus is the Chriſt, is born of God, whether it be male or female,</hi>
+               <note place="margin">Col. 3.11. Gal. 3.26. compared with 28.</note> 
+               <hi>Iew or Gentile, bond or free, high or low, rich or poor.</hi>
+            </p>
+            <p>And moreover, this truth may be proved by this argu<g ref="char:EOLhyphen"/>ment, namely, that the ſpirit of the Lord, in this new Birth, is
+<pb n="19" facs="tcp:119902:17"/>the root and tree from whence faith ſprings, and upon which it groweth, as hath been alrea<g ref="char:EOLhyphen"/>dy proved: And Chriſt tels us, in <hi>Luk.</hi> 6.44. that every tree is known by his fruit, and that for this reaſon, <hi>that a good tree cannot bring forth corrupt fruit, neither can a corrupt tree bring forth good fruit.</hi> So in like man<g ref="char:EOLhyphen"/>ner, the corrupt naturall birth, cannot bring forth the ſpiritu<g ref="char:EOLhyphen"/>all new man; nor the ſpiritu<g ref="char:EOLhyphen"/>all new birth, bring forth the corrupt old man;<note place="margin">John 3.6.</note> 
+               <hi>But that which is born of the fleſh, is fleſh, and that which is born of the ſpirit, is ſpirit:</hi> So that whereſoever we find faith, which is a ſpiri<g ref="char:EOLhyphen"/>tuall grace, it is a certaine cha<g ref="char:EOLhyphen"/>racter that there is the ſpiritu<g ref="char:EOLhyphen"/>all new birth, from whence it ſprings.</p>
+            <pb n="20" facs="tcp:119902:18"/>
+            <p> Now having proved that true faith and beliefe on the name of Jeſus Chriſt, is a true mark and character of the ſons of God, and of the new Birth, I might take occaſion to ſhew what is to be underſtood by the name of Chriſt; And ſe<g ref="char:EOLhyphen"/>condly what it is to beleeve one his name. But I ſhall not enlarge upon this; but rather come to ſhew of what uſe the Doctrine, as it hath been ope<g ref="char:EOLhyphen"/>ned, may be to all the people of God: Only in a few words briefly, to give you my under<g ref="char:EOLhyphen"/>ſtanding cocerning the ſame. And,<note place="margin">What is to be under<g ref="char:EOLhyphen"/>ſtood by the name of Chriſt.</note> firſt by the name of Chriſt, is to be underſtood whole Chriſt, that is, what<g ref="char:EOLhyphen"/>ſoever he is in reſpect of his God-head, or in reſpect of his
+<pb n="21" facs="tcp:119902:18"/>Man-hood, whatſoever he is in himſelfe, or whatſoever he is unto others, is comprehen<g ref="char:EOLhyphen"/>ded in his name.</p>
+            <p>And therefore in this Chap<g ref="char:EOLhyphen"/>ter, out of which the Text is taken, we ſhall find that he is called the word, which name or title doth include his eter<g ref="char:EOLhyphen"/>nall power and Godhead, as in the 1 <hi>verſe, In the beginning was the word, and the word was with God, and the word was God.</hi>
+            </p>
+            <p n="2">2. It alſo includes his Man<g ref="char:EOLhyphen"/>hood, as in <hi>verſe</hi> the 14. <hi>And the word was made fleſh,</hi> ſo that in ſhort, the name of Chriſt may be thus defined, that he is what he is, that is to ſay, he is what he is in himſelfe, that he is what he is to his people,
+<pb n="22" facs="tcp:119902:19"/>that he is what he is to his ene<g ref="char:EOLhyphen"/>nemies. And this we find to be the name of God,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> in the 3 of <hi>Exodus</hi> 14.<note n="(g)" place="margin">Or ac<g ref="char:EOLhyphen"/>cording to the Heb. I will be what I will be.</note> 
+               <hi>I am that I am;</hi> which name Chriſt apply<g ref="char:EOLhyphen"/>eth to himſelfe, in the 8 of <hi>Iohn</hi> 58. <hi>before Abram was I am:</hi> And this is that every one that commeth to God, muſt beleeve according to that in the 11 to the <hi>Hebrews</hi> and 6 <hi>verſe. He that commeth to God, must be<g ref="char:EOLhyphen"/>leeve that he is.</hi>
+            </p>
+            <p n="2">2. VVhat it is to beleeve on his name, is to make all Jeſus; Chriſt the only object of our faith.</p>
+            <p>Now I ſhall ſhew what the word beleeve doth ſignifie, and import, and then ſhall come to the uſes, that the Doctrine holds forth. The word doth
+<pb n="23" facs="tcp:119902:19"/>properly ſignifie, when it is ſpo<g ref="char:EOLhyphen"/>ken in relatio<g ref="char:cmbAbbrStroke">̄</g> to Chriſt, a faith<g ref="char:EOLhyphen"/>full beleeving of him, a putting our truſt and confidence in him, and to commit all to him. So now I have done with the doctrinall part, and ſhall pro<g ref="char:EOLhyphen"/>ceed by way of uſe.</p>
+            <p>And the firſt is this; If this be ſo, that true faith and belee<g ref="char:EOLhyphen"/>ving in the Lord Jeſus Chriſt, be an infallible character and marke of the new Birth, and of the ſons and children of God, as hath been plainly pro<g ref="char:EOLhyphen"/>ved.</p>
+            <p n="1">1 <hi>
+                  <g ref="char:V">Ʋ</g>ſe.</hi>
+               <note place="margin">A uſe of in<g ref="char:EOLhyphen"/>formation.</note> VVhy then it may in<g ref="char:EOLhyphen"/>forme all true beleevers, that they are brethren.</p>
+            <p>And this doth clearly ap<g ref="char:EOLhyphen"/>peare from the Doctrine, as it hath been opened; that all
+<pb n="24" facs="tcp:119902:20"/>true beleevers are thoſe that are born of God, and all that are born of God, are the ſons of God,<note place="margin">All the ſons of God are brethren.</note> and all that are ſons of God, muſt needs be brethren; for this is the true and proper ground of brother-hood, the being children of one father, and upon this account the ten ſonns of <hi>Iacob,</hi> did declare to <hi>Ioſeph,</hi> that they were bre<g ref="char:EOLhyphen"/>thren, by being the ſons of one man. <hi>Gen.</hi> 42.13. Now, for<g ref="char:EOLhyphen"/>aſmuch as true faith is a cha<g ref="char:EOLhyphen"/>racter of the new Birth, and of ſon-ſhip, and ſon-ſhip the true ground of brother-hood; it will undeniably follow, that where true faith is manifeſted, they are ſons of God; and upon that account we ought that are believers to owne them to be our brethren.</p>
+            <pb n="25" facs="tcp:119902:20"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> But then the queſtion will be, how is true faith mani<g ref="char:EOLhyphen"/>feſted?</p>
+            <p n="1">1. I anſwer in two things,<note place="margin">Faith ma<g ref="char:EOLhyphen"/>nifeſted in two parti<g ref="char:EOLhyphen"/>culars.</note> firſt by confeſſion with the mouth, as in the 10 <hi>Rom.</hi> 10. <hi>With the heart man beleeveth un<g ref="char:EOLhyphen"/>to righteouſneſſe, and with the mouth confeſſion is made unto ſal<g ref="char:EOLhyphen"/>vation.</hi>
+            </p>
+            <p n="2">2. Faith is declared by good works, as in the 2 of <hi>James</hi> 18. <hi>I will ſhew thee my faith by my works.</hi> But what are the good works that the Apoſtle doth here mind to manifeſt faith? why they are implyed in the 15, 16 <hi>verſes, That if a brother or ſiſter be naked, and deſtitute of of dayly food, to feed them, and to cloth them; and not only to ſay, be filled and be warmed, and not to
+<pb n="26" facs="tcp:119902:21"/>give them that which is needfull for the body.</hi> And comparing this with the 27 <hi>verſe</hi> of the 1 Chapter. We, ſhall find <hi>That pure religion and undefiled be<g ref="char:EOLhyphen"/>fore God and the Father, is this; to viſit the fatherleſſe and widdow in their affliction, and to keep himſelfe unſpotted from the world.</hi>
+            </p>
+            <p>And thus I have ſhewed you how true faith is manifeſted, namely, by confeſſion and good works; and where faith is thus manifeſted in or by any perſons, it is a viſible mark of their ſon-ſhip, and therefore ought viſibly to be owned as brethren; and I ſhall ſay to every beleeving ſoule, as <hi>Peter</hi> did in another caſe, concerning the beleeving <hi>Gentiles,</hi> in the 10 of the <hi>Acts</hi> 47. <hi>Can any forbid
+<pb n="27" facs="tcp:119902:21"/>water, that theſe ſhould not be baptized, that have received the Holy Ghoſt, as well as we.</hi> So ſay I, can any forbid that thoſe ſhould not be owned our bre<g ref="char:EOLhyphen"/>thren, that are the ſons of God as well as we.</p>
+            <p>But it may be objected by ſome,<note place="margin">
+                  <hi>1</hi> Ob.</note> that the Scripture tels us, that thoſe that beleeved were baptized, and the Scrip<g ref="char:EOLhyphen"/>ture putteth faith and baptiſme together, and we cannot judge perſons viſibly to be our bre<g ref="char:EOLhyphen"/>thren, untill they have ſub<g ref="char:EOLhyphen"/>mitted to Chriſt by baptiſme.</p>
+            <p>To this I anſwer,<note place="margin">An.</note> that al<g ref="char:EOLhyphen"/>though baptiſme be comman<g ref="char:EOLhyphen"/>ded by the Lord Jeſus Chriſt, for every beleever to practiſe after faith received, and not to be neglected when the Lord
+<pb n="28" facs="tcp:119902:22"/>giveth them light, to ſee it to be their duty according to that in the 22 of <hi>Acts</hi> 16. <hi>Ariſe, why tari<g ref="char:EOLhyphen"/>eſt thou.</hi> Yet I never read in Scripture, that the Lord Jeſus did ever declare baptiſme to be the great character of the new Birth, or being born of God: Neither doe I find, that the Lord doth limit perſons that have received precious faith, that becauſe they are not en<g ref="char:EOLhyphen"/>lightned in their duty, to be baptized, that they muſt not therefore practiſe that which they are enlightned in, and per<g ref="char:EOLhyphen"/>ſwaded of, and that becauſe ſome of the ſons of God are babes, and know but little (it may be) in ſome particular Ordinances of Chriſt, that therefore they muſt not be
+<pb n="29" facs="tcp:119902:22"/>owned to be brethren, by thoſe that know more. And cer<g ref="char:EOLhyphen"/>teinly if the Lord doth not li<g ref="char:EOLhyphen"/>mit perſons in this particular,<note place="margin">Men ought not to limit where God doth not.</note> men ought not. But God doth rather command the contrary, in the 14 <hi>Rom.</hi> 1. <hi>Him that is weake in the faith receive yee. If they have faith, though but weak, they ought to be received, and to walk ſo far as they have attained. Phil.</hi> 3.16.</p>
+            <p>But it may be further obje<g ref="char:EOLhyphen"/>cted,<note place="margin">
+                  <hi>2</hi> Ob.</note> that the perſons before ſpoken of, doe not only neg<g ref="char:EOLhyphen"/>lect a duty in that they ſubmit not to Chriſt by baptiſme, but they uphold a tradition of man, which is no where com<g ref="char:EOLhyphen"/>manded in the word of God, namely the ſprinkling of In<g ref="char:EOLhyphen"/>fants, which is a relique of An<g ref="char:EOLhyphen"/>tichriſt,
+<pb n="30" facs="tcp:119902:23"/>and ſhall we owne ſuch to be brethren?</p>
+            <p>To this I anſwer,<note place="margin">
+                  <hi>1</hi> An.</note> that the upholding of one Antichriſtian point, (for want of light) doth not diſanull perſons to be the ſons of God, and therefore not uncapable to be our brethren. But we find in Scripture, that there were ſome that did hold an Antichriſtian point, (for want of light) which were commanded to be received and owned as brethren, in the 14. <hi>Rom.</hi> 1. The Apoſtle comman<g ref="char:EOLhyphen"/>deth, <hi>that thoſe that were weak in the faith ſhould be received.</hi> Now the queſtion is, wherein the weakneſſe of their faith did conſiſt; why it doth appear in the following <hi>verſes,</hi> it was in this, that they did obſerve
+<pb n="31" facs="tcp:119902:23"/>dayes and meats, which Ce<g ref="char:EOLhyphen"/>remonies Chriſt had aboliſhed and made void by his death.</p>
+            <p>Now, to obſerve thoſe things after the death of Chriſt, which were aboliſhed by the death of Chriſt, ſuch an act doth in the tendancy of it, de<g ref="char:EOLhyphen"/>ny Jeſus Chriſt to be come in the fleſh, and whoſoever deny<g ref="char:EOLhyphen"/>eth Chriſt to be come in the fleſh, is an Antichriſt. 1 <hi>Iohn</hi> 4.3. But this being for want of light, the ſpirit of God would have the Saints to bear one with another.</p>
+            <p n="2">2.<note place="margin">
+                  <hi>2</hi> An.</note> I anſwer, that thoſe that beleeve in Jeſus Chriſt, and yet for want of light may hold ſome things which in the ten<g ref="char:EOLhyphen"/>dancy of them may be Anti<g ref="char:EOLhyphen"/>chriſtian; This ought to be a
+<pb n="32" facs="tcp:119902:24"/>motive to prevaile upon thoſe that are ſtrong, to own and re<g ref="char:EOLhyphen"/>ceive them, that they may<note n="*" place="margin">1 Theſ. 5.14. 1 Cor. 15.1, 1, 2, 3. Reader, for further ſa<g ref="char:EOLhyphen"/>tisfaction, concerning this parti<g ref="char:EOLhyphen"/>cular; I ſhall refer thee to a little book called the Storehouſe, publiſhed by Mr <hi>Jeſſe;</hi> in which I conceive, all objecti<g ref="char:EOLhyphen"/>ons that may be thought on are made and anſwe<g ref="char:EOLhyphen"/>red, from page 93. to 12<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> ſup<g ref="char:EOLhyphen"/>port them that are weak and inform the<g ref="char:cmbAbbrStroke">̄</g> better in the things of God. And thus much at pre<g ref="char:EOLhyphen"/>ſent by way of information.</p>
+            <p>In the next place; if this be ſo, that true faith in the Lord Jeſus, be a true character of the ſons of God, why then in the ſecond place, it may ſerve for a uſe of exhortation to all true beleeving ſoules, to owne and receive one another as bre<g ref="char:EOLhyphen"/>thren; yea, although many of you may come ſhort (for want of light) both in the knowledge and practice of ſome things, pertaining to outward forme and order; and that for theſe reaſons following.</p>
+            <p n="1">
+               <pb n="33" facs="tcp:119902:24"/> 1. God hath received him, <hi>Rom.</hi> 14.3. And he hath re<g ref="char:EOLhyphen"/>ceived Jeſus Chriſt, through beleeving, <hi>John</hi> 1.12.</p>
+            <p>Now I would deſire every ſoule to conſider this; hath God received a ſoule to be his ſon, and ſhall we deny him to be our brother? And further, I deſire this may be ſeriouſly weighed in the fear of the Lord.</p>
+            <p>If that God hath received every beleeving ſoule to be his fon; why then this followeth, that <hi>If ſons, then heires, heires of God, and joint-heires with Chriſt. Rom.</hi> 8.17.</p>
+            <p n="1">1. The children of God are heires; what heires? heires of God: this may be underſtood in a double ſence.</p>
+            <p n="1">
+               <pb n="34" facs="tcp:119902:25"/> 1.<note place="margin">The ſons of God are heires of God in a twofold re<g ref="char:EOLhyphen"/>ſpect.</note> They are heires of God, in regard that they are begot<g ref="char:EOLhyphen"/>ten and born of him.</p>
+            <p n="2">2. They are heirs of God alſo, upon this account, in that they have right and title to all that God is, and all that God hath; and therefore ſaith <hi>David, The Lord Jehovah is the portion of mine inheritance. Pſal.</hi> 16.5.</p>
+            <p>And joynt-heirs with Chriſt, that is, whatſoever Jeſus Chriſt hath right and title to, every beleeving ſoule hath the ſame: And we ſhall find that this is conſented to, and deſi<g ref="char:EOLhyphen"/>red by Jeſus Chriſt; as I ſhall inſtance in a few particulars. Wee ſhall find in the 17 of <hi>John</hi> 20, 21. That this is the prayer of Chriſt for thoſe that beleeve in him.</p>
+            <p n="1">
+               <pb n="35" facs="tcp:119902:25"/> 1. <hi>That as the Father and Chriſt is one, ſo they may be one in them.</hi>
+            </p>
+            <p n="2">2. <hi>That the ſame Glory that the Father gave to Chriſt, Chriſt hath given to them.</hi>
+            </p>
+            <p n="3">3. <hi>That the ſame love that the Father loveth Chriſt withall, he alſo loveth them.</hi>
+            </p>
+            <p n="4">4. <hi>It is the will of Chriſt, that where he is, they may be alſo.</hi>
+            </p>
+            <p>Now upon all theſe particu<g ref="char:EOLhyphen"/>lars, let every every beleeving ſoule ſeriouſly conſider.</p>
+            <p n="1">1.<note place="margin">Note.</note> Is every true beleever one with the father and the ſon? And ſhall not we own them to be one with us.</p>
+            <p n="2">2. Will Chriſt give them the ſame honour, glory and eſteem that his father gave him? and ſhall we ſo much
+<pb n="36" facs="tcp:119902:26"/>diſhonour them, as not to owne them to be our brethren.</p>
+            <p>But what was the glory that the father gave to Chriſt, why it was a great waight of glory; for the word in the Hebrew<note n="(h)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> from whence commeth <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> commeth from a root that ſignifieth a heavy weight; and therefore the Apoſtle <hi>Paul</hi> in the 2 <hi>Cor.</hi> 4.17. calleth it an eternall weight of glory, that is, the father gave Chriſt abun<g ref="char:EOLhyphen"/>dance of glory, honour and eſteem. Why ſo Chriſt will give to every beleeving ſoule, abundance of glory and ho<g ref="char:EOLhyphen"/>nour, even as much as they are able to beare. Therefore we ought not to ſlight thoſe that Chriſt ſo highly eſteemeth.</p>
+            <p n="3">3. Hath the father loved them, as he hath loved Chriſt,
+<pb n="37" facs="tcp:119902:26"/>and ſhall not we love them? certainly we ought, for Chriſt commandeth beleevers to love one another.<note place="margin">John 13.34.</note>
+            </p>
+            <p n="4">4. Is it the will of Chriſt, that they ſhall be where he is, and ſhall we thinke much, to let them be where we are? Will Chriſt let them be with him, to all eternity, and muſt we (if ever we enter into the joy of the Lord) be with them alſo; and dare we not owne them while they are here?</p>
+            <p>But againe, Chriſt ſaith, he will that they be where he is: Why we profeſſe Chriſt to be with us, and if we deny any true beleeving ſoules to be ow<g ref="char:EOLhyphen"/>ned and received by us, doe not we as much as in us lieth, (con<g ref="char:EOLhyphen"/>trary to the will of Chriſt) de<g ref="char:EOLhyphen"/>ny
+<pb n="38" facs="tcp:119902:27"/>them to be where Chriſt is?</p>
+            <p>And now, O believing ſoules, doth God and Chriſt, ſo dear<g ref="char:EOLhyphen"/>ly love and eſteem you: O then conſider what is your duty, and mind what the ſpirit of God ſaith unto you; in the 1 <hi>John</hi> 4.11. <hi>If God ſo loved you, yee ought alſo to love one another.</hi>
+            </p>
+            <p>And that I may prevaile upon beleeving ſoules, (if the will of the Lord be) to per<g ref="char:EOLhyphen"/>forme this duty, I ſhall offer to their conſideration theſe parti<g ref="char:EOLhyphen"/>culars.</p>
+            <p n="1">1.<note place="margin">John. 13.35.</note> 
+               <hi>That by loving one ano<g ref="char:EOLhyphen"/>ther, you declare your ſelves to be the true Diſciples of Christ.</hi>
+            </p>
+            <p n="2">2.<note place="margin">1 JOhn 5.1.</note> 
+               <hi>By loving one another, you clearly maniſeſt that you love God.</hi>
+            </p>
+            <p n="3">
+               <pb n="39" facs="tcp:119902:27"/> 3. <hi>By loving one another,</hi>
+               <note place="margin">Rom. 13.8.10.</note> 
+               <hi>you pay the debt that is due to each other by the Law of God, and if it be not paid, you will one day be arreſted for it.</hi>
+            </p>
+            <p n="4">4.<note place="margin">1 John 4.20.</note> 
+               <hi>If yee doe not love one ano<g ref="char:EOLhyphen"/>ther, you will appeare to be lyers, if you ſay yee love God.</hi>
+            </p>
+            <p n="5">5.<note place="margin">1 John 3.15.</note> 
+               <hi>Thoſe that hate their bre<g ref="char:EOLhyphen"/>thren are accounted no leſſe then murtherers by the ſpirit of God.</hi>
+            </p>
+            <p>And further let me offer to your conſideration,<note place="margin">Gal. 4.29.</note> 
+               <hi>That there is enough of them that are borne after the fleſh, to perſecute them that are born after the ſpirit.</hi> There was an<note n="*" place="margin">Gen. 27.41. &amp; 21.9.</note> 
+               <hi>Eſau</hi> to hate <hi>Iacob;</hi> and there was an<note n="*" place="margin">Gen. 27.41. &amp; 21.9.</note> 
+               <hi>Iſh<g ref="char:EOLhyphen"/>maell</hi> to mock <hi>Iſaac;</hi> and there was a<note n="*" place="margin">4.8.</note> 
+               <hi>Kaine</hi> to ſlay <hi>Abell.</hi> And therefore the Children of God have ſmall reaſon to per<g ref="char:EOLhyphen"/>ſecute
+<pb n="40" facs="tcp:119902:28"/>one another, and to diſ<g ref="char:EOLhyphen"/>owne and caſt off each other. But I ſhall conclude this parti<g ref="char:EOLhyphen"/>cular, with the words of the Apoſtle,<note place="margin">Gal. 5.15.</note> 
+               <hi>If yee bite and devour one another, take beed yee be not conſumed one of another.</hi>
+            </p>
+            <p>And thus I have laid downe divers conſiderations and mo<g ref="char:EOLhyphen"/>tives, to perſwade true belee<g ref="char:EOLhyphen"/>vers to love, own, &amp; receive one another, and now I ſhal proceed to a third uſe from the doctrine, which is as followeth.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>
+               </label> A third uſe from this Do<g ref="char:EOLhyphen"/>ctrine, may be to reprove ſharply, all thoſe that doe de<g ref="char:EOLhyphen"/>ny thoſe perſons to be their brethren, that doe viſibly ma<g ref="char:EOLhyphen"/>nifeſt true faith in them, and doe keep at a diſtance from many precious ſoules, becauſe
+<pb n="41" facs="tcp:119902:28"/>they are not enlightned in eve<g ref="char:EOLhyphen"/>ry particular with them in outward form and order; and alſo it may juſtly reprove thoſe that doe rather make an out<g ref="char:EOLhyphen"/>ward conformity to ſome par<g ref="char:EOLhyphen"/>ticular Ordinances of Chriſt, (to wit Baptiſme or laying on of hands; which many thou<g ref="char:EOLhyphen"/>ſands of gracious hearts are not yet perſwaded of) a greater character of a Child of God, then true and ſpirituall grace manifeſted.</p>
+            <p>But ſuch miſtaken grounds as theſe, is to be feared, is too much like the caſe of the Pha<g ref="char:EOLhyphen"/>riſees, in <hi>Mark</hi> 7.5. VVho were offended at the Diſciples of Chriſt, for eating of meat with unwaſnen hands, for which Chriſt ſharply reproves
+<pb n="42" facs="tcp:119902:29"/>them in the 6 <hi>verſe;</hi> not but that it was lawful to waſh be<g ref="char:EOLhyphen"/>fore they eat. But this was their evill, in that they went a<g ref="char:EOLhyphen"/>bout to limit and bind the Diſ<g ref="char:EOLhyphen"/>ciples by a tradition of men, which God never bound them to.</p>
+            <p>VVhy ſo I could wiſh that it could not be truly ſaid of ſome in theſe dayes, in another caſe: As namely, thoſe that by no means wil admit of any perſons into communion &amp; fellowſhip with them, (though never ſo holy and precious) before they are baptized; not but that it is lawfull for perſons to be bapti<g ref="char:EOLhyphen"/>zed before. But to limit and bind up perſons though never ſo gracious, from communion, till they are baptized, is a tra<g ref="char:EOLhyphen"/>dition
+<pb n="43" facs="tcp:119902:29"/>of men. So that as the <hi>Phariſees</hi> would bind the Diſ<g ref="char:EOLhyphen"/>ciples from eating, till they had baptized their hands.</p>
+            <p>So thoſe perſons in like man<g ref="char:EOLhyphen"/>ner doe bind up, or keep off many of the Diſciples of Chriſt, from walking in thoſe Ordinances of Chriſt,<note n="*" place="margin">(viz) with them.</note> which they are inlightned in, untill they are baptized.</p>
+            <p>But ſaith Chriſt, full well ye reject the command of God, that yee may keep your owne tradition. I could heartily wiſh, it could not truly be ſaid of ſome in thoſe dayes, that they reject the command of God, (namely, in refuſing to own and receive precious ſoules up<g ref="char:EOLhyphen"/>on the manifeſtation of faith) that they may keep their own
+<pb n="44" facs="tcp:119902:30"/>tradition, that is, to limit per<g ref="char:EOLhyphen"/>ſons that they muſt of neceſſity be baptized before they are owned and received into fel<g ref="char:EOLhyphen"/>lowſhip and communion. VVhich limitation, I find no where in all the whole Scrip<g ref="char:EOLhyphen"/>ture.</p>
+            <p>But it may be objected and ſaid,<note place="margin">Ob.</note> that baptiſme is the firſt Ordinance to be practiſed next after faith, and therefore the Scripture ſaith, beleeve and be baptized.</p>
+            <p>To this I anſwer in the firſt place.<note place="margin">
+                  <hi>1</hi> Anſ.</note> It is true, the Scripture ſaith, beleeve and be baptized; but the Scripture doth not ſay, that a perſon that beleeveth, muſt not practiſe any Ordi<g ref="char:EOLhyphen"/>nance between faith and
+<pb n="45" facs="tcp:119902:30"/>bap<g ref="char:EOLhyphen"/>tiſme; for if it ſhould be ſo underſtood, then a perſon muſt not pray, nor heare, nor read after beleeving, till he be baptized.</p>
+            <p>But ſecondly, I anſwer, that in my underſtanding,<note place="margin">
+                  <hi>2</hi> Anſ.</note> that is the firſt Ordinance to me, which I know firſt, and what<g ref="char:EOLhyphen"/>ſoever Ordinance the Lord is pleaſed by his ſpirit, to inligh<g ref="char:EOLhyphen"/>ten a ſoule firſt in, why in the practice of that Ordinance, that ſoule ought to walk, according to what he hath received, and not to neglect his duty in what he doth know, and is perſwa<g ref="char:EOLhyphen"/>ded of, becauſe he doth not know all; for in my underſtan<g ref="char:EOLhyphen"/>ding, it is a very dangerous principle, that becauſe a ſoule doth not know every thing, he
+<pb n="46" facs="tcp:119902:31"/>muſt therefore practice no<g ref="char:EOLhyphen"/>thing. But for further anſwe<g ref="char:EOLhyphen"/>ring of objections of this kind, I ſhall refer the Reader to the Storehouſe, publiſhed by Mr <hi>Ieſſe,</hi> as aforeſaid.</p>
+            <p>Thus having finiſhed the 3 Uſe, which was by way of re<g ref="char:EOLhyphen"/>proofe; I ſhall in the 4 place add a few words, by way of comfort and conſolation, and ſhall draw to a concluſion.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>
+               </label> If this be ſo, that true faith in the Lord Jeſus Chriſt, is an infallible character of the new birth, and of ſon-ſhip, and al<g ref="char:EOLhyphen"/>ſo, if that thoſe that are ſons, are heires of God, and joynt-heires with Chriſt, as hath been made appeare, although it may be that many are not enlightned in ſome particular
+<pb n="47" facs="tcp:119902:31"/>Ordinances, yet to every ſuch beleeving ſoule, this Doctrine ſpeaks comfort (that although it may be many of the children of your father, will not owne you to be their brethren) yet God doth own you to be his children, and will give you an inheritance amongſt them that are ſanctified.<note n="*" place="margin">Acts 20.32, &amp; 26.18.</note> And now I ſhall lay down a word of caution, becauſe I would not be miſta<g ref="char:EOLhyphen"/>ken in what I have written, and ſhall for this preſent con<g ref="char:EOLhyphen"/>clude.</p>
+            <p>And the caution is this.</p>
+            <p>That as I deſire to love and owne all thoſe that feare the Lord, and beleeve on his name, although they may not be en<g ref="char:EOLhyphen"/>lightned in every duty, they ought to performe; yet that
+<pb n="48" facs="tcp:119902:32"/>they would take heed that they neglect no duty, that they are enlightned in, for as it is a ſin of hypocriſie in any perſon to practiſe that outwardly as a duty to Chriſt, which he is not perſwaded of in his heart to be his duty:</p>
+            <p>So it is a great ſin of ſlighting the Lord, and his commands, when a perſon ſhall neglect the practiſe of any duty, that the Lord hath enlightned him in. Therefore walke according to what yee have attained, and in Gods due time he will reveal more.</p>
+         </div>
+         <div type="description">
+            <pb n="49" facs="tcp:119902:32"/>
+            <head>A briefe deſcription of Antichriſt.</head>
+            <p>HAving ſhewed you the new birth, and the marks and characters thereof, I ſhall now lay downe a brief deſcription of Anti<g ref="char:EOLhyphen"/>chriſt, which is much cryed downe in pretence by many in our dayes; and for the better laying of him open to publick view, I ſhall give you ſome hints of the ſignification of his name.</p>
+            <p>And for ſo doing, I ſhall take the word in pieces, and
+<pb n="50" facs="tcp:119902:33"/>ſhew you what it properly im<g ref="char:EOLhyphen"/>ports.</p>
+            <p>Firſt, I ſhall ſhew what the prepoſition <hi>anti</hi> ſignifieth.</p>
+            <p>And ſecondly, what Chriſt ſignifieth.</p>
+            <p n="1">1. The prepoſition <hi>anti,</hi> it ſignifieth [for, or in ſtead of] as in <hi>Mat.</hi> 2.22. and ſecondly it ſignifieth contrary to, or an ad<g ref="char:EOLhyphen"/>verſary againſt.</p>
+            <p n="2">2. Chriſt ſignifieth anointed, and anſwered to the Hebrew word<note n="(a)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>Meſſiah,</hi> as <hi>John</hi> 1.41.</p>
+            <p>So that the word being put together, and taken according to the firſt interpretation of the prepoſition <hi>anti,</hi> it ſignifi<g ref="char:EOLhyphen"/>eth [for, or in the room and ſtead of Chriſt] and according to this ſignification, Antichriſt is that which is ſet up in the
+<pb n="51" facs="tcp:119902:33"/>room and ſtead of Chriſt, and upon this account he is called the man of ſinne; who oppoſeth and exalteth himſelfe above all that is called God, or that is worſhipped, ſo that he as God, ſitteth in the Temple of God, ſhewing himſelfe that he is God. 2 <hi>Theſ.</hi> 2.3, 4.</p>
+            <p>So that whatſoever is ſet up in the room or in ſtead of Je<g ref="char:EOLhyphen"/>ſus Chriſt, whether it be with<g ref="char:EOLhyphen"/>in us, or without us, whether it be that which is good in it ſelf, or whether it be that which is bad in it ſelfe, if ſet up in the room of Chriſt, it is Anti<g ref="char:EOLhyphen"/>chriſt.</p>
+            <p n="1">1. If it be that which is bad in it ſelfe, ſet up in the room or ſtead of Chriſt, it is without diſpute Antichriſt.</p>
+            <p n="2">
+               <pb n="52" facs="tcp:119902:34"/> 2. But ſecondly, if it be that which is lawfull and good in it ſelfe, ſet up in the room of Chriſt, it is alſo Antichriſt.</p>
+            <p>We have a cleare emblem of this, in the Braſen Serpent, which was crected and made by <hi>Moſes, Num.</hi> 21.8, 9. And was broken to pieces by <hi>Heze<g ref="char:EOLhyphen"/>kiah,</hi> as in 2 <hi>Kin.</hi> 18.4. Now concerning this Braſen Ser<g ref="char:EOLhyphen"/>pent, there is obſervable theſe particulars.</p>
+            <p n="1">1. That it was ordained and appointed by God, to be ſet up.</p>
+            <p n="2">2. It was of ſingular uſe, to heale and ſave alive, thoſe that were bitten by the fiery Ser<g ref="char:EOLhyphen"/>pents.</p>
+            <p n="3">3. It was an eminent type of Chriſt. <hi>Iohn</hi> 3.14, 15. But not<g ref="char:EOLhyphen"/>withſtanding,
+<pb n="53" facs="tcp:119902:34"/>when the peo<g ref="char:EOLhyphen"/>ple ſet this appointment of God (which was ſo uſefull and good for the people) in the room of God, and when they ſet that which was but a type of Chriſt in the room, or in ſtead of Chriſt, you ſee it was broken to pieces by <hi>Hezekiah,</hi> and the ſpirit of God doth ju<g ref="char:EOLhyphen"/>ſtifie him therein, and ſaith, he did that which was right in the ſight of the Lord, becauſe it was in the room or ſtead of God.</p>
+            <p>Why ſo any ordinance or appointment of Chriſt, (whe<g ref="char:EOLhyphen"/>ther it be baptiſme, or Church-fellowſhip, or breaking of bread, or whether it be our du<g ref="char:EOLhyphen"/>ties and performances) ſet up in the room of Chriſt, is Anti<g ref="char:EOLhyphen"/>chriſt.</p>
+            <pb n="54" facs="tcp:119902:35"/>
+            <p> But it is further to be obſer<g ref="char:EOLhyphen"/>ved, that when <hi>Hezekiah</hi> had broken the Braſen Serpent, he called it<note n="(b)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>Nehuſhtan,</hi> that is, a piece of Braſſe, by which name he ſheweth, that in it ſelfe it was but a piece of braſs, and had no deitie in it, and therefore not to be adored and worſhipped. Why ſo the ho<g ref="char:EOLhyphen"/>ly and good ordinances of God, through which (in the right uſe of them) the Lord doth manifeſt himſelfe, yet if ſet up in the room of Chriſt, and made the great characters of a ſoules happineſſe, which at the laſt, to ſuch as ſo ſet them up, they will prove to be meer <hi>Ne<g ref="char:EOLhyphen"/>huſhtans,</hi> as ſounding braſſe and a tinckling cymball.</p>
+            <p>Thus having ſpoke briefly to
+<pb n="55" facs="tcp:119902:35"/>the firſt particular, I come to the ſecond.</p>
+            <p>In which is to be remem<g ref="char:EOLhyphen"/>bred, firſt, that the Greek pre<g ref="char:EOLhyphen"/>poſition <hi>anti,</hi> ſignifieth againſt, or an adverſary to: And ſe<g ref="char:EOLhyphen"/>condly, that Chriſt ſignifieth anointed, to ſhew unto us, that Jeſus Chriſt is Gods anointed, and not only ſo, but all that are Chriſts, every true belee<g ref="char:EOLhyphen"/>ving ſoule is the Lord's an<g ref="char:EOLhyphen"/>nointed, 1 <hi>Iohn</hi> 2.20, 27. only here is all the difference, Chriſt is anointed above his fellowes. <hi>Pſal.</hi> 45.7.</p>
+            <p>So that according to this in<g ref="char:EOLhyphen"/>terpretation, the word doth ſignifie, that whatſoever is con<g ref="char:EOLhyphen"/>trary to, or an adverſary a<g ref="char:EOLhyphen"/>gainſt the Lord's anointed (to wit) Chriſt and thoſe that are
+<pb n="56" facs="tcp:119902:36"/>Chriſts, is Antichriſt; whether it be any thing againſt Chriſt within us, or whether it be any thing againſt Chriſt without us; whether it be that which is againſt Chriſt at <hi>Rome,</hi> or againſt Chriſt in <hi>England;</hi> whether it be any thing againſt Chriſt in a Nation, or againſt Chriſt in a Congregation: Antichriſt is Antichriſt, whereſoever it be.</p>
+            <p>Thus having given a briefe deſcription of Antichriſt, and the ſignification of his name; I ſhall endeavour to make a little improvement thereof, by way of uſe.</p>
+            <p>And ſeeing we live in the laſt times, in which are many An<g ref="char:EOLhyphen"/>tichriſts, I conceive it may not be amiſſe, to exhort all perſons in generall, and in particular,
+<pb n="57" facs="tcp:119902:36"/>ſeriouſly to examine, whether there be not more or leſſe of Antichriſt in them, or ſet up by them.</p>
+            <p>And the reaſon why I preſſe this duty, is this.</p>
+            <p>Becauſe that I doe heartily wiſh and deſire, that perſons would not only labour to throw down Antichriſt with<g ref="char:EOLhyphen"/>out them, but alſo to be as zea<g ref="char:EOLhyphen"/>lous and willing to throw down Antichriſt within them. For when perſons doe labour to throw down Antichriſt at <hi>Rome,</hi> and to throw downe An<g ref="char:EOLhyphen"/>tichriſt in <hi>England,</hi> to throw downe Antichriſtian powers, and Antichriſtian Miniſtery, and Antichriſtian mainte<g ref="char:EOLhyphen"/>nance, and many other particu<g ref="char:EOLhyphen"/>lars, that might be named; and
+<pb n="58" facs="tcp:119902:37"/>yet all this while, have a ſpirit of Antichriſt within them, and by the power there<g ref="char:EOLhyphen"/>of, to throw downe Antichriſt without them, it is no more, then for Satan to caſt out Sa<g ref="char:EOLhyphen"/>tan.</p>
+            <p>But it may be, moſt perſons to whom theſe preſents ſhall come, will be apt to juſtifie themſelves, and ſay, we have not an Antichriſtian ſpirit, and therefore this doth not concern us.</p>
+            <p>Well, if it be ſo, I ſhall re<g ref="char:EOLhyphen"/>joyce; but yet notwithſtanding, becauſe it is the property of Antichriſt, to pretend that he is for Chriſt, and although he be a miniſter of Satan, yet he doth transforme himſelfe into an Angell of light; I ſhall
+<pb n="59" facs="tcp:119902:37"/>therefore propound ſome par<g ref="char:EOLhyphen"/>ticular, which through the bleſ<g ref="char:EOLhyphen"/>ſing of God, may helpe thoſe whom it may concerne, to know whether Antichriſt be in them or no: And firſt it is to be remembred, that whatſo<g ref="char:EOLhyphen"/>ever is ſet up in the room, or inſtead of Jeſus Chriſt, is An<g ref="char:EOLhyphen"/>tichriſt; and that being remem<g ref="char:EOLhyphen"/>bred, I would begin firſt, with a covetous worldly minded man, which hunteth for the world, as a ravening woolfe for his prey, and the world he muſt have, though with ne<g ref="char:EOLhyphen"/>ver ſo great oppreſſion of the poor, and yet it may be, pre<g ref="char:EOLhyphen"/>tend for Chriſt too.</p>
+            <p>Now let ſuch an earthly minded man examine, in truth, whether his covetouſneſſe
+<pb n="60" facs="tcp:119902:38"/>doth not raigne and rule over him, in ſtead of Chriſt, and whether he doth not ſet the I<g ref="char:EOLhyphen"/>dols of his covetouſneſſe in his heart, inſtead of Chriſt; and<note n="*" place="margin">John 12.5, 6.</note> 
+               <hi>Judas</hi>-like, had rather have the bag in his hand, then Chriſt in his heart, and yet pretend for the poor.</p>
+            <p>The like might be ſaid of pride, where that raignes, and paſſion where that raignes, and voluptuouſneſſe where that raignes inſtead of Chriſt, all which is Antichriſt, and upon this account, we may conclude with the Apoſtle <hi>Iohn,</hi> that even now there are many<note n="*" place="margin">1 Iohn 2.18.</note> An<g ref="char:EOLhyphen"/>tichriſts, who <hi>Dives</hi>-like, are clothed in<note n="*" place="margin">Luke 16, 49, 20.</note> purple, and fine linnen, and fare deliciouſly eve<g ref="char:EOLhyphen"/>ry day, when poor <hi>Lazarus</hi>
+               <pb n="61" facs="tcp:119902:38"/>lieth ſtarving at their doors.</p>
+            <p>I ſhall come in the next place to examine the legall profeſſor, who it may be can ſay, I thank God I am not as other men are, extortioners, unjuſt, adul<g ref="char:EOLhyphen"/>terers, proud, and paſſionate: but on the contrary, I faſt twice in the week, and give tithes of all that I poſſeſſe; and pray oft, and give almes to the poor, and many other things.</p>
+            <p>But will you ſay, this is An<g ref="char:EOLhyphen"/>tichriſt too?</p>
+            <p>I anſwer, that thoſe duties in themſelves, are not Anti<g ref="char:EOLhyphen"/>chriſt, but when they are put in the room of Chriſt, and ſet up as a mans righteouſneſs, and to make them his ſaviours; this is Antichriſt, for Chriſt is the only ſaviour of them that
+<pb n="62" facs="tcp:119902:39"/>beleeve, and not mens duties and performances.</p>
+            <p>I have only one particular more, concerning this firſt branch of Antichriſt, which I could heartily wiſh, if it were the will of the Lord, that there might be no cauſe to mention it; but ſo it is, that when the ſons of God are met together, this Antichriſt alſo commeth amongſt them, and ſitteth in the Temple of God; and by his power even in the children of God themſelves, cauſeth them to exerciſe dominion over each others faith, and cauſeth as it were, <hi>Ephraim</hi> to envy <hi>Iudah,</hi> and <hi>Iudah</hi> to vex <hi>Ephraim:</hi> But God hath promiſed, that the envy of <hi>Ephraim</hi> ſhall depart, and then they ſhall not vex one
+<pb n="63" facs="tcp:119902:39"/>another any more.</p>
+            <p>And thus I have done with the application of the firſt branch of Antichriſt.</p>
+            <p>And now I come to make ſome application upon the ſe<g ref="char:EOLhyphen"/>cond branch, which is this;</p>
+            <p>That whatſoever is contrary to, or an adverſary againſt the Lord's anointed, (to wit, Chriſt and all that are Chriſts) is An<g ref="char:EOLhyphen"/>tichriſt.</p>
+            <p>Now for the further opening of this particular, I ſhall ſhew you, that as the Greek prepoſi<g ref="char:EOLhyphen"/>tion <hi>anti</hi> doth ſignifie, contra<g ref="char:EOLhyphen"/>ry to, or an adverſary againſt, that it doth agree in ſignificati<g ref="char:EOLhyphen"/>on with the Hebrew word<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> Sa<g ref="char:EOLhyphen"/>tan, and this the Apoſtle <hi>Paul</hi> plainly ſheweth, in the 2 <hi>Theſ.</hi> 2.9. ſpeaking of Antichriſt, the
+<pb n="64" facs="tcp:119902:40"/>man of ſin, whoſe comming (ſaith he) is after the working of Satan; ſo that if we look how Satan works, why after the ſame manner Antichriſt doth worke, and they are both as one.</p>
+            <p>And this word Satan or An<g ref="char:EOLhyphen"/>tichriſt, it is applyed in Scrip<g ref="char:EOLhyphen"/>ture, ſometimes to the Devill, as he is an adverſary to Chriſt and his people.</p>
+            <p>Sometimes to wicked men, as they are adverſaries to Chriſt or his people.</p>
+            <p>Sometimes to good men, when they act evilly againſt Chriſt or his people.</p>
+            <p n="1">1. It is applyed to the De<g ref="char:EOLhyphen"/>vill, as he is an adverſary to Chriſt, as doth appear by ma<g ref="char:EOLhyphen"/>ny Scriptures, as <hi>Mat.</hi> 4.8. com<g ref="char:EOLhyphen"/>pared
+<pb n="65" facs="tcp:119902:40"/>with 10 of <hi>Luke</hi> 22.3. See alſo <hi>Revelations</hi> 12.9 and 20.2.</p>
+            <p n="2">2. This name is applyed to the Devill, as he is an adverſa<g ref="char:EOLhyphen"/>ry to the children of God, as may be ſeen from <hi>Job</hi> 1.6. to the 7 verſe of the ſecond chap<g ref="char:EOLhyphen"/>ter. Alſo 1 <hi>Pet.</hi> 5.8.</p>
+            <p n="2">2. It is applyed to wicked men, which are adverſaries to Chriſt or his people; as in the 1 <hi>Kin.</hi> 11.14, 23, 25. In all which places, that word which is tranſlated adverſary in the Engliſh, it is in the Hebrew,<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> Satan.</p>
+            <p n="3">3. It is applyed to the chil<g ref="char:EOLhyphen"/>dren of God themſelves, when they act evilly; as in <hi>Mat.</hi> 16.23. we may find, that when <hi>Peter,</hi> one of the Apoſtles of
+<pb n="66" facs="tcp:119902:41"/>Chriſt, began to rebuke Chriſt, telling him, that it ſhould be far from him, to go to <hi>Jeruſalem,</hi> to ſuffer many things of the Elders and chiefe Prieſts and Scribes, and be kil<g ref="char:EOLhyphen"/>led, and be raiſed againe the third day, ſaying, theſe things ſhall not be unto thee. Now this his ſpeech being ſo contra<g ref="char:EOLhyphen"/>ry to what Chriſt came into the world for, and alſo in that act, he being ſuch an adverſa<g ref="char:EOLhyphen"/>ry to all thoſe that Chriſt came to dy for, as well to himſelfe as to others; Chriſt turned and ſaid unto him, get thee behind me Satan, as if he ſhould have ſaid, get thee behind me, my adverſary, thou art an adver<g ref="char:EOLhyphen"/>ſary to me, and an adverſary to thy ſelfe, and to all my peo<g ref="char:EOLhyphen"/>ple,
+<pb n="67" facs="tcp:119902:41"/>in what thou haſt done, thou art Antichriſt to purpoſe.</p>
+            <p>Now concerning theſe three particulars, I ſhall not ſo much at preſent mind the firſt and ſecond, becauſe this book is dedicated to the ſons and chil<g ref="char:EOLhyphen"/>dren of God, and therefore I ſhall rather endeavour to make ſome improvement of it, by way of uſe to them.</p>
+            <p>And for that I ſhall conſider the caſe of <hi>Peter;</hi> and</p>
+            <p>Therein ſhall firſt mind, what he rebukes Chriſt for, and what he perſwades him from.</p>
+            <p n="2">2. What the tendancie of his rebuke and perſwaſion was.</p>
+            <p n="3">3. Chriſt's anſwer unto <hi>Pe<g ref="char:EOLhyphen"/>ter,</hi> upon the whole.</p>
+            <p n="1">1. That which <hi>Peter</hi> did re<g ref="char:EOLhyphen"/>buke
+<pb n="68" facs="tcp:119902:42"/>Chriſt for, was this; be<g ref="char:EOLhyphen"/>cauſe that Chriſt told him he muſt ſuffer death, and riſe a<g ref="char:EOLhyphen"/>gaine, according to that in the 24 of <hi>Luke</hi> and 46. That it did behoove Chriſt to ſuffer, and to riſe from the dead the third day: But <hi>Peter</hi> tels him, this ſhall not be unto thee; Lord be it far from thee.</p>
+            <p>But now in the ſecond place, I ſhall obſerve the tendancy of <hi>Peter's</hi> ſpeech.</p>
+            <p n="1">1. It did tend to hinder Chriſt from doing and ſuffe<g ref="char:EOLhyphen"/>ring that which the father had appointed him to,<note place="margin">Neb. 10.5.6, 7, 10.</note> for the Fa<g ref="char:EOLhyphen"/>ther had appointed and prepa<g ref="char:EOLhyphen"/>red Chriſt a body, that he might offer it up as a ſacrifice, once for all.</p>
+            <p n="2">2. His rebuke and perſwa<g ref="char:EOLhyphen"/>ſion
+<pb n="69" facs="tcp:119902:42"/>did tend to the ruine of all perſons,<note place="margin">Rom. 5.10.</note> whom Chriſt came to reconcile to God by his death, becauſe that if Chriſt ſhould not have dyed, there had been no reconciliation to God, neither for <hi>Peter</hi> him<g ref="char:EOLhyphen"/>ſelfe, nor others, as the Scrip<g ref="char:EOLhyphen"/>ture doth abundantly mani<g ref="char:EOLhyphen"/>feſt.</p>
+            <p n="3">3. I ſhall now conſider Chriſt's anſwer to <hi>Peter</hi> upon this; and that is, get thee be<g ref="char:EOLhyphen"/>hind me Satan, thou art an offence unto me; for thou ſa<g ref="char:EOLhyphen"/>voureſt not the things that be of God, but thoſe that be of men.</p>
+            <p>Now from <hi>Peter's</hi> caſe, we may obſerve theſe four parti<g ref="char:EOLhyphen"/>culars.</p>
+            <p n="1">1. That ſome of the chil<g ref="char:EOLhyphen"/>dren
+<pb n="70" facs="tcp:119902:43"/>of God, may be ſo far o<g ref="char:EOLhyphen"/>ver-powred by a Satanicall, and Antichriſtian ſpirit, as to rebuke perſons for, and per<g ref="char:EOLhyphen"/>ſwade them from, that which is according to the will of God, and beneficiall to his people. Thus you ſee <hi>Peter</hi> did to Chriſt, and he rebuked him, ſaying, be it farre from thee Lord, this ſhall not be unto thee.</p>
+            <p n="2">2. We may alſo note, that Chriſt doth declare, that thoſe that doe rebuke any perſon for doing what God hath appoin<g ref="char:EOLhyphen"/>ted, or perſwade them from it, that they are Satan or Anti<g ref="char:EOLhyphen"/>chriſt, and in that act, adver<g ref="char:EOLhyphen"/>ſaries to him. Thus you ſee Chriſt did to <hi>Peter,</hi> get thee be<g ref="char:EOLhyphen"/>hind me Satan.</p>
+            <p n="3">
+               <pb n="71" facs="tcp:119902:43"/> 3. VVe may further obſerve, that when any ſhall rebuke a perſon for doing what God hath appointed, that Chriſt is much offended at it, for ſo he tels <hi>Peter,</hi> thou art an offence unto me.</p>
+            <p n="4">4. And in the fourth place, we may obſerve, that when any perſon ſhall rebuke for, or perſwade a ſoule from any thing that God hath appoin<g ref="char:EOLhyphen"/>ted, and that wherein he may be ſerviceable to others, it is becauſe they ſavour of the things that be of men, and not the things that be of God.</p>
+            <p>Now from what hath been ſpoken and obſerved concer<g ref="char:EOLhyphen"/>ning <hi>Peters</hi> caſe, there might be divers uſes drawn, as firſt.</p>
+            <p n="1">1. to examine whether there
+<pb n="72" facs="tcp:119902:44"/>be none in theſe dayes, that doe<note n="*" place="margin">I fear up<g ref="char:EOLhyphen"/>on ſtrict examinati<g ref="char:EOLhyphen"/>on, that there would bee ſome found that do not only re<g ref="char:EOLhyphen"/>buke, but perſecute also</note> rebuke perſons, for do<g ref="char:EOLhyphen"/>ing what God hath appointed, and perſwade them from that; wherein they may be ſervice<g ref="char:EOLhyphen"/>able to others.</p>
+            <p n="2">2. It might be of uſe, to in<g ref="char:EOLhyphen"/>form all that doe ſo as afore<g ref="char:EOLhyphen"/>ſaid, that in ſuch acts, Chriſt giveth them the name of Sa<g ref="char:EOLhyphen"/>tan, Antichriſt, or adverſaries, againſt him and his people.</p>
+            <p n="3">3. It may ſerve to re<g ref="char:EOLhyphen"/>prove all thoſe that have, or doe rebuke any perſons, as aforeſaid, as doth appeare by the words of Chriſt, to <hi>Peter,</hi> get thee behind me Satan, thou art an offence unto me.</p>
+            <p n="4">4. It may ſerve by way of caution, to thoſe that have ſo done, that they take heed they
+<pb n="73" facs="tcp:119902:44"/>doe ſo no more.</p>
+            <p>Thus I have given ſome hints of what uſe might be made of the particulars before mentioned: But I ſhall not en<g ref="char:EOLhyphen"/>large upon them, but leave the judicious Reader to enlarge them in his private meditati<g ref="char:EOLhyphen"/>ons.</p>
+            <p>And I might come in the next place, to ſhew that every luſt and corruption in the heart of man, is Antichriſt, al<g ref="char:EOLhyphen"/>though it be not brought into word nor actions, becauſe it is contrary to Chriſt, and an ad<g ref="char:EOLhyphen"/>verſary againſt him. But I ſhall leave this till ſome other op<g ref="char:EOLhyphen"/>portunity, and commit what I have written, to the bleſſing of God. Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:119902:45"/>
+            <head>Courteous Reader, I intreat thee to mend theſe faults with thy pen, as followeth.</head>
+            <p>IN page <hi>35.</hi> line <hi>13.</hi> the word every is put twice together, ſtrike out one of them. In page <hi>43.</hi> line <hi>17.</hi> read theſe for thoſe.</p>
+            <pb facs="tcp:119902:45"/>
+         </div>
+      </back>
+   </text>
+</TEI>
